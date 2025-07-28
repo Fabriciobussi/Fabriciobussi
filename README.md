@@ -22,7 +22,7 @@ Meu foco é construir soluções eficientes e escaláveis, sempre buscando apren
 
 ---
 
-## 🛠 Lingueagens de Programação 
+## 🛠 Linguagens de Programação 
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://github.com/fabriciobussi)
 
