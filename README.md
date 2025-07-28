@@ -6,27 +6,26 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-
-I'm currently pursuing a degree in Science and Technology at UNIFEI.  
-I have a strong interest in software development, artificial intelligence, and automation systems.  
-My focus is on building efficient, scalable solutions while constantly learning and improving.
+## 📈 GitHub Gráfico de Contribuição 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 🛠 Programming Languages
+## 👨‍💻 Sobre Mim
+
+Atualmente estou cursando Ciência e Tecnologia na UNIFEI.
+Tenho grande interesse em desenvolvimento de software, inteligência artificial e sistemas de automação.
+Meu foco é construir soluções eficientes e escaláveis, sempre buscando aprender e melhorar continuamente.
+
+---
+
+## 🛠 Lingueagens de Programação 
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://github.com/fabriciobussi)
-
----
-
-## 📈 GitHub Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabriciobussi/fabriciobussi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabriciobussi/fabriciobussi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabriciobussi/fabriciobussi/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
