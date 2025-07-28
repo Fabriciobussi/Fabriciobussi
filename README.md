@@ -5,12 +5,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=191A4F&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Fabricio+Bussi;Estudande+de+Ci%C3%AAncia+e+Tecnologia" alt="Typing SVG" /></a>
 </p>
 
-## 📈 GitHub Gráfico de Contribuição 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabriciobussi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabriciobussi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fabriciobussi/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fabriciobussi/Fabriciobussi/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
