@@ -13,13 +13,21 @@ Atualmente estou cursando Ciência e Tecnologia na UNIFEI.
 Tenho grande interesse em desenvolvimento de software, inteligência artificial e sistemas de automação.
 Meu foco é construir soluções eficientes e escaláveis, sempre buscando aprender e melhorar continuamente.
 
-[![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=fabriciobussi&bg_color=0d1117&color=001f3f&line=001f3f&point=001f3f&area=true&area_color=001f3f&hide_border=true)](https://github.com/fabriciobussi/)
+<a href="https://github.com/fabriciobussi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciobussi&show_icons=true&theme=dark&icon_color=001f3f&text_color=001f3f&title_color=001f3f&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/> 
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobussi&layout=compact&langs_count=6&theme=dark&icon_color=001f3f&text_color=001f3f&title_color=001f3f&hide_border=true&bg_color=0d1117"/>
+</a>
 
 ---
 
 ## 🛠 Linguagens de Programação 
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,java,cpp)](https://github.com/fabriciobussi)
+
+---
+
+[![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=fabriciobussi&bg_color=0d1117&color=001f3f&line=001f3f&point=001f3f&area=true&area_color=001f3f&hide_border=true)](https://github.com/fabriciobussi/)
 
 ---
 
